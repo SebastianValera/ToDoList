@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Ingresar</string>
+    <string name="enter_your_username">Introduzca su usuario</string>
+    <string name="enter_your_password">Introduzca su contraseña</string>
+    <string name="this_field_is_required">Este campo es requerido</string>
+    <string name="action_new">Agregar</string>
+    <string name="action_refresh">Refrescar</string>
+    <string name="action_logout">Salir</string>
+    <string name="app_name">To-do List</string>
+    <string name="what_needs">¿Qué necesita ser terminado?</string>
+    <string name="Done">Listo</string>
+    <string name="add_todo">Agregar</string>
+</resources>
